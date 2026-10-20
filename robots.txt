@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/biomeburn-gut-health/sitemap.xml
+Sitemap: https://biomeburn-gut-health.vercel.app/sitemap-vercel.xml
+Sitemap: https://biomeburn-gut-health.pages.dev/sitemap-cloudflare.xml
